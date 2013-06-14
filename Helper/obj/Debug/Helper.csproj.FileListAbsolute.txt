@@ -1,0 +1,6 @@
+F:\Project\GitHub\Helper\trunk\Helper\bin\Debug\Helper.dll
+F:\Project\GitHub\Helper\trunk\Helper\bin\Debug\Helper.pdb
+F:\Project\GitHub\Helper\trunk\Helper\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\GitHub\Helper\trunk\Helper\obj\Debug\Helper.dll
+F:\Project\GitHub\Helper\trunk\Helper\obj\Debug\Helper.pdb
+F:\Project\GitHub\Helper\trunk\Helper\bin\Debug\log4net.dll
