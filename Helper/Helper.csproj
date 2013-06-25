@@ -47,6 +47,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DBUtility\BaseSQL.cs" />
+    <Compile Include="DBUtility\BaseSQL2.cs" />
+    <Compile Include="DBUtility\SqlHelper.cs" />
+    <Compile Include="DBUtility\SqlHelper2.cs" />
     <Compile Include="Http\HttpHelper.cs" />
     <Compile Include="Img\DownLoad.cs" />
     <Compile Include="Log\Log4Helper.cs" />
