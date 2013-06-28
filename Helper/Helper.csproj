@@ -57,7 +57,13 @@
     <Compile Include="Log\LogMsg.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reg\RegexHelper.cs" />
+    <Compile Include="Serialization\Compression.cs" />
+    <Compile Include="Serialization\DataColumnSurrogate.cs" />
+    <Compile Include="Serialization\DataSetSurrogate.cs" />
+    <Compile Include="Serialization\DataTableSurrogate.cs" />
     <Compile Include="Serialization\SerializationHelper.cs" />
+    <Compile Include="Serialization\UnZipClass.cs" />
+    <Compile Include="Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Log\log4net.dll" />
